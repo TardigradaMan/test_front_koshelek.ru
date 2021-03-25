@@ -10,5 +10,5 @@ module.exports = {
     },
   },
   publicPath:
-    process.env.NODE_ENV === 'production' ? 'test_front_koshelek.ru' : '/',
+    process.env.NODE_ENV === 'production' ? '/test_front_koshelek.ru/' : '/',
 }
